@@ -1,0 +1,83 @@
+-- =========================== --
+--         GOSSIP_TEXTS        --
+-- =========================== --
+--    SD2_REVISION_R2 "0428"   --
+-- =========================== --
+
+SET NAMES utf8;
+ALTER TABLE `gossip_texts` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+UPDATE `gossip_texts` SET `content_loc7`='Activar los cristales cuando tengamos problemas, ¿verdad?' WHERE `entry`='-3608000';
+UPDATE `gossip_texts` SET `content_loc7`='Proteje a tu pueblo, retendremos a las fuerzas del Vuelo Azul en la bahía.' WHERE `entry`='-3608001';
+UPDATE `gossip_texts` SET `content_loc7`='[PH] Texto de SD2 no encontrado' WHERE `entry`='-3000000';
+UPDATE `gossip_texts` SET `content_loc7`='Necesito un pack de bombas incendiarias.' WHERE `entry`='-3560001';
+UPDATE `gossip_texts` SET `content_loc7`='Taretha no puede verte, Thrall.' WHERE `entry`='-3560002';
+UPDATE `gossip_texts` SET `content_loc7`='La situación es bastante complicada, Thrall. Sería lo mejor para ti que te dirigieses a las montañas ahora, antes de que más hombres de Lodonegro aparezcan. Nos aseguraremos de que Taretha esté a salvo.' WHERE `entry`='-3560003';
+UPDATE `gossip_texts` SET `content_loc7`='Estamos listos, Thrall.' WHERE `entry`='-3560004';
+UPDATE `gossip_texts` SET `content_loc7`='¿Mago extraño?' WHERE `entry`='-3560005';
+UPDATE `gossip_texts` SET `content_loc7`='Vamos a salir. Taretha. No te preocupes. Dudo que el mago deambule demasiado lejos.' WHERE `entry`='-3560006';
+UPDATE `gossip_texts` SET `content_loc7`='Martillo de la Luz' WHERE `entry`='-3631600';
+UPDATE `gossip_texts` SET `content_loc7`='Oratorio de los Malditos' WHERE `entry`='-3631601';
+UPDATE `gossip_texts` SET `content_loc7`='La Muralla de las Calaveras' WHERE `entry`='-3631602';
+UPDATE `gossip_texts` SET `content_loc7`='Si. Estamos preparados para lo que se nos presente.' WHERE `entry`='-3649000';
+UPDATE `gossip_texts` SET `content_loc7`='Estoy list$go:a; para empezar.' WHERE `entry`='-3090000';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte al Campamento Base de la Expedición.' WHERE `entry`='-3603000';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte al Campo de Formación.' WHERE `entry`='-3603001';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a La Forja Colosal.' WHERE `entry`='-3603002';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a La Chatarrería.' WHERE `entry`='-3603003';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a la Antecámara de Ulduar.' WHERE `entry`='-3603004';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a La Pasarela Devastada.' WHERE `entry`='-3603005';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte al Invernadero de Vida.' WHERE `entry`='-3603006';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a La Chispa de la Imaginación.' WHERE `entry`='-3603007';
+UPDATE `gossip_texts` SET `content_loc7`='Teletransporte a la Prisión de Yogg-Saron.' WHERE `entry`='-3603008';
+UPDATE `gossip_texts` SET `content_loc7`='Taruk me manda a cobrar lo que debes.' WHERE `entry`='-3000101';
+UPDATE `gossip_texts` SET `content_loc7`='¡Aquí está el dinero!' WHERE `entry`='-3000102';
+UPDATE `gossip_texts` SET `content_loc7`='Ya estoy list$go:a; para viajar a tu aldea.' WHERE `entry`='-3000103';
+UPDATE `gossip_texts` SET `content_loc7`='<Comprueba si hay pulso...>' WHERE `entry`='-3000104';
+UPDATE `gossip_texts` SET `content_loc7`='Ezequiel dijo que podrías tener cierto libro...' WHERE `entry`='-3000105';
+UPDATE `gossip_texts` SET `content_loc7`='¡Que empiece el evento!' WHERE `entry`='-3043000';
+UPDATE `gossip_texts` SET `content_loc7`='Quiero saber más.' WHERE `entry`='-3409000';
+UPDATE `gossip_texts` SET `content_loc7`='¿Qué más tiene que decir?' WHERE `entry`='-3409001';
+UPDATE `gossip_texts` SET `content_loc7`='Nos desafió y hemos venido. ¿Dónde está este maestro del que habla?' WHERE `entry`='-3409002';
+UPDATE `gossip_texts` SET `content_loc7`='No he cometido errores.' WHERE `entry`='-3469000';
+UPDATE `gossip_texts` SET `content_loc7`='Ha perdido la cabeza, Nefarius. Hablas con enigmas.' WHERE `entry`='-3469001';
+UPDATE `gossip_texts` SET `content_loc7`='Por favor.' WHERE `entry`='-3469002';
+UPDATE `gossip_texts` SET `content_loc7`='¡No puedo, Vaelastrasz! ¡Seguramente se puede hacer algo para curarte!' WHERE `entry`='-3469003';
+UPDATE `gossip_texts` SET `content_loc7`='¡¡¡Vaelastrasz, no!!!' WHERE `entry`='-3469004';
+UPDATE `gossip_texts` SET `content_loc7`='Por favor, abrir la puerta del patio.' WHERE `entry`='-3033000';
+UPDATE `gossip_texts` SET `content_loc7`='¡Saca el primer desafío!' WHERE `entry`='-3649001';
+UPDATE `gossip_texts` SET `content_loc7`='¡Queremos otra oportunidad en aquellas bestias!' WHERE `entry`='-3649002';
+UPDATE `gossip_texts` SET `content_loc7`='¿Qué nuevo desfío nos espera?' WHERE `entry`='-3649003';
+UPDATE `gossip_texts` SET `content_loc7`='Estamos listos para luchar con el brujo de nuevo.' WHERE `entry`='-3649004';
+UPDATE `gossip_texts` SET `content_loc7`='¡Por supuesto!' WHERE `entry`='-3649005';
+UPDATE `gossip_texts` SET `content_loc7`='¡Dé la señal! ¡Estamos listos para partir!' WHERE `entry`='-3649006';
+UPDATE `gossip_texts` SET `content_loc7`='Es complicado, ¿eh?' WHERE `entry`='-3649007';
+UPDATE `gossip_texts` SET `content_loc7`='¿Val\'kyr? Listos, a por ellas' WHERE `entry`='-3649008';
+UPDATE `gossip_texts` SET `content_loc7`='Aprecio tus elogios, Maestro del Coliseo.' WHERE `entry`='-3649009';
+UPDATE `gossip_texts` SET `content_loc7`='Esto es extraño...' WHERE `entry`='-3649010';
+UPDATE `gossip_texts` SET `content_loc7`='Akama. estamos dispuestos a luchar contigo.' WHERE `entry`='-3564000';
+UPDATE `gossip_texts` SET `content_loc7`='Estoy listo, Oronok. ¡Destruyamos a Cyrukh y liberemos los elementos!' WHERE `entry`='-3000109';
+UPDATE `gossip_texts` SET `content_loc7`='Cambiar 100 Puntos de Arenas por 2000 Puntos de Honor' WHERE `entry`='-3000770';
+UPDATE `gossip_texts` SET `content_loc7`='Cambiar 1000 Puntos de Arenas por 20000 Puntos de Honor' WHERE `entry`='-3000771';
+UPDATE `gossip_texts` SET `content_loc7`='Cambiar 1000 Puntos de Honor por 50 Puntos de Arenas' WHERE `entry`='-3000772';
+UPDATE `gossip_texts` SET `content_loc7`='Cambiar 10000 Puntos de Honor por 500 Puntos de Arenas' WHERE `entry`='-3000773';
+UPDATE `gossip_texts` SET `content_loc7`='Campamento Base de la Expedición' WHERE `entry`='-3050001';
+UPDATE `gossip_texts` SET `content_loc7`='Campo de Formación' WHERE `entry`='-3050002';
+UPDATE `gossip_texts` SET `content_loc7`='La Forja Colosal' WHERE `entry`='-3050003';
+UPDATE `gossip_texts` SET `content_loc7`='La Chatarrería' WHERE `entry`='-3050004';
+UPDATE `gossip_texts` SET `content_loc7`='La Antecámara de Ulduar' WHERE `entry`='-3050005';
+UPDATE `gossip_texts` SET `content_loc7`='La Pasarela Devastada' WHERE `entry`='-3050006';
+UPDATE `gossip_texts` SET `content_loc7`='El Invernadero de Vida' WHERE `entry`='-3050007';
+UPDATE `gossip_texts` SET `content_loc7`='La Chispa de la Imaginación' WHERE `entry`='-3050008';
+UPDATE `gossip_texts` SET `content_loc7`='La Prisión de Yogg-Saron' WHERE `entry`='-3050009';
+UPDATE `gossip_texts` SET `content_loc7`='Alto del Libramorte' WHERE `entry`='-3631603';
+UPDATE `gossip_texts` SET `content_loc7`='Ciudadela de la Corona de Hielo' WHERE `entry`='-3631604';
+UPDATE `gossip_texts` SET `content_loc7`='El Sagrario de Sangre' WHERE `entry`='-3631605';
+UPDATE `gossip_texts` SET `content_loc7`='La Guarida de la Reina de Escarcha' WHERE `entry`='-3631606';
+UPDATE `gossip_texts` SET `content_loc7`='El Trono Helado' WHERE `entry`='-3631607';
+UPDATE `gossip_texts` SET `content_loc7`='Â¡Estamos preparados, Tirion!' WHERE `entry`='-3631608';
+UPDATE `gossip_texts` SET `content_loc7`='¡Lady Jaina, estamos listos para la siguiente misión!' WHERE `entry`='-3594536';
+UPDATE `gossip_texts` SET `content_loc7`='¡Vamos, Lady Jaina!' WHERE `entry`='-3594537';
+UPDATE `gossip_texts` SET `content_loc7`='¡Lady Sylvanas, estamos listos para la siguiente misión!' WHERE `entry`='-3594538';
+UPDATE `gossip_texts` SET `content_loc7`='¡Vamos, Lady Sylvanas!' WHERE `entry`='-3594539';
+UPDATE `gossip_texts` SET `content_loc7`='¡Vamos!' WHERE `entry`='-3594540';
